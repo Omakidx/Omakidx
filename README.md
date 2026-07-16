@@ -39,9 +39,24 @@ I'm **[@Omakidx](https://github.com/Omakidx)** — a builder working where produ
 - I move comfortably between design decisions, frontend details, APIs, data, and deployment.
 - I believe the boring, repeatable parts of work should be automated whenever possible.
 
-<p align="center">
-  <img src="./assets/dragon-fire.svg" width="100%" alt="Colorful original ASCII dragon breathing fire beside Omakidx's workflow: design interfaces and systems, build full-stack products, automate agent workflows, and ship useful software." />
-</p>
+```text
+                  __/\__                         __/\__             +------------------------------------+
+             _.-'/######\__                 __/######\'-._          | $ OMAKIDX --builder-mode           |
+         _.-'   /##########\___.-------.___/##########\   '-._      |------------------------------------|
+       .'      /############/    _____    \############\      '.    | DESIGN   interfaces + systems      |
+      /______./######/\####/    /_   _\    \####/\######\.______\   | BUILD    full-stack products       |
+      \      /######/  \##/    | o   o |    \##/  \######\      /   | AUTOMATE agent workflows           |
+       '.___/###/\##\   \/     |   ^   |     \/   /##/\###\___.'    | SHIP     useful software           |
+          /___/  \__\    \     \  ===  /~~~===>  )))  >>>>>>>>      |                                    |
+       ___\   \___________\     '.___.'     /___________/   /___    | PIPELINE                           |
+      /    '._      _.-'   \_____/ | \_____/   '-._      _.'    \   | IDEA -> CODE -> IMPACT _           |
+     /_.--'    '--._/      /    | | |    \      \_.--'    '--._\    |                                    |
+     \             / \____/     | | |     \____/ \             /    | FOCUS                              |
+      '._       .-'    /        | | |        \    '-.       _.'     | FULL-STACK SYSTEMS                 |
+         '----'       /____   __|_|_|__   ____\       '----'        | PRODUCT CRAFT                      |
+                     /_/\_\ /_/     \_\ /_/\_\                      | AGENT WORKFLOWS                    |
+                    /_____/             \_____\                     +------------------------------------+
+```
 
 ## Selected work
 
