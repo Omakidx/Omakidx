@@ -39,32 +39,8 @@ I'm **[@Omakidx](https://github.com/Omakidx)** — a builder working where produ
 - I move comfortably between design decisions, frontend details, APIs, data, and deployment.
 - I believe the boring, repeatable parts of work should be automated whenever possible.
 
-<details open>
-<summary><strong>A little terminal energy</strong></summary>
-
-```text
-                 ___====-_  _-====___
-           _--^^^#####//      \\#####^^^--_
-        _-^##########// (    ) \\##########^-_
-       -############//  |\^^/|  \\############-
-     _/############//   (@::@)   \\############\_
-    /#############((     \\//     ))#############\
-   -###############\\    (oo)    //###############-
-  -#################\\  / VV \  //#################-
- -###################\\/      \//###################-
-_#/|##########/\######(   /\   )######/\##########|\#_
-|/ |#/\#/\#/\/  \#/\##\  |  |  /##/\#/  \/\#/\#/\#| \|
-`  |/  V  V  `   V  \#\| |  | |/#/  V   '  V  V  \|  '
-   `   `  `      `   / | |  | | \   '      '  '   '
-                    (  | |  | |  )
-                   __\ | |  | | /__
-                  (vvv(VVV)(VVV)vvv)
-```
-
-</details>
-
 <p align="center">
-  <sub>Dragon artwork: artist unknown · <a href="https://www.asciiart.eu/art/a4d55da8fa2142cc">ASCII Art Archive</a></sub>
+  <img src="./assets/dragon-fire.svg" width="100%" alt="Colorful original ASCII dragon breathing fire beside Omakidx's workflow: design interfaces and systems, build full-stack products, automate agent workflows, and ship useful software." />
 </p>
 
 ## Selected work
