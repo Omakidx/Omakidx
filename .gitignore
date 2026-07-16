@@ -1,0 +1,3 @@
+# The complete source logo catalog is a nested repository (~101 MB).
+# Only the curated profile icons under assets/icons/ belong in this repo.
+/logos-apps/
